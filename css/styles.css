@@ -19,7 +19,7 @@ h1 {
  .box-big{
    background: #ffffff;
    text-align: center;
-   padding: 1%;
+   /*padding: 1%;*/
    border-radius: 5%;
    margin: 7% auto;
    /*width: 20%;*/
@@ -27,6 +27,7 @@ h1 {
  }
 
 .crop{
-  border-radius: 5%;
   width: 100%;
+  padding: 5%;
+  border-radius: 10%;
 }
