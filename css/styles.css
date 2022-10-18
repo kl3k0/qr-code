@@ -1,0 +1,29 @@
+body{
+  background-color: #d6e2f0;
+  font-family: "Outfit";
+  font-weight: 700;
+}
+
+
+ p{
+   color: #7b879d;
+   font-weight: 400;
+   margin: auto 10% 10%;
+   line-height: 1.5;
+   font-size: 1rem;
+ }
+
+ .box-big{
+   background: #ffffff;
+   text-align: center;
+   padding: 1%;
+   border-radius: 5%;
+   margin: 7% auto;
+   width: 20%;
+   box-shadow: #7b879d 10px 10px 50px;
+ }
+
+.crop{
+  border-radius: 5%;
+  width: 100%;
+}
